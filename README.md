@@ -2,7 +2,7 @@
 - 👀 I’m interested in website designer/development
 - 🌱 I’m currently learning Vue js and Laravel
 - 💞️ I’m looking to collaborate on any platform or projects
-- 📫 How to reach me via email
+   You can reach me via email
 
 <!---
 Femad/Femad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
