@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bamidele Oseni
 - 👀 I’m interested in website designer/development
-- 🌱 I’m currently learning Vue js and Laravel
+- 🌱 I’m currently learning React js and Laravel
 - 💞️ I’m looking to collaborate on any platform or projects
    You can reach me via email
 
